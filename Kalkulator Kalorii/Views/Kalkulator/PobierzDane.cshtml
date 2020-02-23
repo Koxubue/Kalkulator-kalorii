@@ -1,0 +1,28 @@
+﻿@model Kalkulator_Kalorii.Models.KalkulatorModel
+
+@{
+    ViewBag.Title = "Pobierz Dane";
+}
+
+<h2>Prosimy o dostarczenie wszystkich niezbędnych danych</h2>
+<body>
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary()
+        <p>Płeć: Kobieta @Html.RadioButtonFor(x => x.Plec, true)    Mężczyzna @Html.RadioButtonFor(x => x.Plec, false)</p>
+        <p>Wybierz swoją opcję: </p>
+        <p>Masa @Html.RadioButtonFor(x => x.Opcja, 1) Utrzymanie wagi @Html.RadioButtonFor(x => x.Opcja, 3)
+            Redukcja @Html.RadioButtonFor(x => x.Opcja, 2)</p>
+        <p>Twoja waga: @Html.TextBoxFor(x => x.Waga)</p>
+        <p>Twój wzrost: @Html.TextBoxFor(x => x.Wzrost)</p>
+        <p>Twój wiek: @Html.TextBoxFor(x => x.Wiek)</p>
+        <p>Ilość dni treningowych w tygodniu: @Html.TextBoxFor(x => x.IloscDniTreningowych)</p>
+
+        <input type="submit" value="Wyslij dane" />
+    }
+</body>
+
+
+
+
+

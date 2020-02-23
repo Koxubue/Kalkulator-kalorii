@@ -1,0 +1,249 @@
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\Kalkulator Kalorii.dll.config
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\Kalkulator Kalorii.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\Kalkulator Kalorii.pdb
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\csc.exe
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\csc.exe.config
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\csc.rsp
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\csi.exe
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\csi.exe.config
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\csi.rsp
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.Managed.Core.targets
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.AppContext.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Collections.Immutable.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Console.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.IO.Compression.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.IO.FileSystem.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.IO.Pipes.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Reflection.Metadata.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Security.AccessControl.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Security.Claims.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Security.Principal.Windows.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.ValueTuple.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Xml.XmlDocument.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Xml.XPath.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\vbc.exe
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\vbc.exe.config
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\vbc.rsp
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\VBCSCompiler.exe
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\VBCSCompiler.exe.config
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\Antlr3.Runtime.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\Microsoft.Web.Infrastructure.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\Newtonsoft.Json.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Helpers.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Mvc.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Optimization.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Razor.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.WebPages.Deployment.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.WebPages.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.WebPages.Razor.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\WebGrease.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Helpers.xml
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Mvc.xml
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Optimization.xml
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Razor.xml
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.WebPages.xml
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.WebPages.Deployment.xml
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.WebPages.Razor.xml
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\Newtonsoft.Json.xml
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\Antlr3.Runtime.pdb
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\pl\System.Web.Helpers.resources.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\pl\System.Web.Mvc.resources.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\pl\System.Web.Optimization.resources.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\pl\System.Web.Razor.resources.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\pl\System.Web.WebPages.resources.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\obj\Debug\Kalkulator Kalorii.csprojAssemblyReference.cache
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\obj\Debug\Kalkulator Kalorii.csproj.CoreCompileInputs.cache
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\obj\Debug\Kalkulator Kalorii.csproj.CopyComplete
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\obj\Debug\Kalkulator Kalorii.dll
+C:\C#\Kalkulator Kalorii\Kalkulator Kalorii\obj\Debug\Kalkulator Kalorii.pdb
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\Kalkulator Kalorii.dll.config
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\Kalkulator Kalorii.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\Kalkulator Kalorii.pdb
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\csc.exe
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\csc.exe.config
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\csc.rsp
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\csi.exe
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\csi.exe.config
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\csi.rsp
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.AppContext.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Collections.Immutable.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Console.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.IO.Compression.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.IO.FileSystem.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.IO.Pipes.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Security.AccessControl.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Security.Claims.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.ValueTuple.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Xml.XPath.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\vbc.exe
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\vbc.exe.config
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\vbc.rsp
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\VBCSCompiler.exe
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\VBCSCompiler.exe.config
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\Antlr3.Runtime.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\Microsoft.Web.Infrastructure.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\Newtonsoft.Json.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Helpers.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Mvc.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Optimization.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Razor.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.WebPages.Deployment.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.WebPages.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.WebPages.Razor.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\WebGrease.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Helpers.xml
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Mvc.xml
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Optimization.xml
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Razor.xml
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.WebPages.xml
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.WebPages.Deployment.xml
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.WebPages.Razor.xml
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\Newtonsoft.Json.xml
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\Antlr3.Runtime.pdb
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\pl\System.Web.Helpers.resources.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\pl\System.Web.Mvc.resources.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\pl\System.Web.Optimization.resources.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\pl\System.Web.Razor.resources.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\pl\System.Web.WebPages.resources.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\pl\System.Web.WebPages.Deployment.resources.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\bin\pl\System.Web.WebPages.Razor.resources.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\obj\Debug\Kalkulator Kalorii.csprojAssemblyReference.cache
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\obj\Debug\Kalkulator Kalorii.csproj.CoreCompileInputs.cache
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\obj\Debug\Kalkulator Kalorii.csproj.CopyComplete
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\obj\Debug\Kalkulator Kalorii.dll
+D:\Dysk_Lenovo\C#\Kalkulator Kalorii\Kalkulator Kalorii\obj\Debug\Kalkulator Kalorii.pdb
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\Kalkulator Kalorii.dll.config
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\Kalkulator Kalorii.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\Kalkulator Kalorii.pdb
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\csc.exe
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\csc.exe.config
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\csc.rsp
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\csi.exe
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\csi.exe.config
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\csi.rsp
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.AppContext.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Console.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.IO.Compression.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Security.Claims.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.ValueTuple.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\vbc.exe
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\vbc.exe.config
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\vbc.rsp
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\VBCSCompiler.exe
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\Antlr3.Runtime.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\Newtonsoft.Json.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Helpers.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Mvc.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Optimization.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Razor.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.WebPages.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.WebPages.Razor.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\WebGrease.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Helpers.xml
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Mvc.xml
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Optimization.xml
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.Razor.xml
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.WebPages.xml
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\System.Web.WebPages.Razor.xml
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\Newtonsoft.Json.xml
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\Antlr3.Runtime.pdb
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\obj\Debug\Kalkulator Kalorii.csprojAssemblyReference.cache
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\obj\Debug\Kalkulator Kalorii.csproj.CoreCompileInputs.cache
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\obj\Debug\Kalkulator Kalorii.csproj.CopyComplete
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\obj\Debug\Kalkulator Kalorii.dll
+C:\Users\Misiaczek\source\repos\Kalkulator Kalorii\Kalkulator Kalorii\obj\Debug\Kalkulator Kalorii.pdb
